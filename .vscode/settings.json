@@ -1,0 +1,10 @@
+{
+  "git.autorefresh": false,
+  "git.enabled": true,
+  "stylelint.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
